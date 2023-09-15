@@ -1,0 +1,9 @@
+img {
+  background-color: #000;
+  background-size: cover;
+}
+@media (min-width: 768px) {
+  .new-input {
+    width: 50%;
+  }
+}
